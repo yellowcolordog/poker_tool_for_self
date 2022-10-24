@@ -1,0 +1,1 @@
+AA,AKs,AQs,AJs,ATs:0.5,A5s,A4s:0.5,KAo,KK,KQs,KJs,KTs:0.5,K7s:0.5,K6s:0.5,QAo,QQ,JJ,JTs:0.5,TT,T9s,9Jo:0.5,99:0.5,98s:0.5,8Qo:0.5,8Jo:0.5,8To:0.5,88:0.5,87s:0.5,7Ko:0.5,76s:0.5,6Ko:0.5,65s:0.5,5Ao:0.5,5Ko:0.5,4Ao:0.5,3Ao:0.5,2Ao:0.5
